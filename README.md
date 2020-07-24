@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...XR
+- 🌱 I’m currently learning ...Unity/Design
+- 📫 How to reach me: ...[「トマシープが学ぶ」](https://bibinbaleo.hatenablog.com/)
+- 🦋 Twitter...[@tomasheep](https://twitter.com/tomasheep)
+
+
 <!--
 **bibinba/bibinba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
