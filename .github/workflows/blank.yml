@@ -1,0 +1,3 @@
+- name: Publish to GitHub Wiki
+  uses: SwiftDocOrg/github-wiki-publish-action@1.0.0
+
